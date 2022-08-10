@@ -15,11 +15,11 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-from gi.repository import Gtk
+from gi.repository import Gtk, Adw
 
 
 @Gtk.Template(resource_path='/com/example/MediaConverter/window.ui')
-class MediaConverterWindow(Gtk.ApplicationWindow):
+class MediaConverterWindow(Adw.ApplicationWindow):
     __gtype_name__ = 'MediaConverterWindow'
 
     label = Gtk.Template.Child()

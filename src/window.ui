@@ -24,7 +24,7 @@
     <property name="accept-label" translatable="yes">Open</property>
     <property name="cancel-label" translatable="yes">Cancel</property>
   </object>
-  <template class="MediaConverterWindow" parent="GtkApplicationWindow">
+  <template class="MediaConverterWindow" parent="AdwApplicationWindow">
     <property name="width-request">360</property>
     <property name="height-request">530</property>
     <property name="default-width">400</property>
