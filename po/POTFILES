@@ -1,0 +1,7 @@
+data/com.example.MediaConverter.desktop.in
+data/com.example.MediaConverter.appdata.xml.in
+data/com.example.MediaConverter.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+

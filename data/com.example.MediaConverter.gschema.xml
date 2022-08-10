@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="media-converter">
+	<schema id="com.example.MediaConverter" path="/com/example/MediaConverter/">
+	</schema>
+</schemalist>
